@@ -1,0 +1,35 @@
+body
+{
+    margin:0px;
+    padding:0px;
+}
+
+.result
+{
+    width:50%;
+    background:#000;
+    color:#fff;
+    padding:10px;
+}
+
+#first,#second
+{
+    float:left;
+}
+
+#first
+{
+    /* background:greenyellow; */
+    color:#000;
+}
+
+#second
+{
+    /* background: #ff0000; */
+    color:#000;
+}
+
+.clear
+{
+    clear:both;
+}
